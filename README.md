@@ -1,4 +1,4 @@
-#     Check-Website-Availability
+#        Check-Website-Availability
 
 
 This is a simple Python web application built using Streamlit and the Requests library to check the availability of websites.
@@ -8,6 +8,7 @@ This is a simple Python web application built using Streamlit and the Requests l
 1- Input a list of website URLs.
 2- Check the availability of each website.
 3- Display the status of each website (e.g., reachable, not reachable).
+
 
 
 #     Installation
@@ -44,9 +45,9 @@ pip install -r requirements.txt
 1- Run the Streamlit application:
    
   
-    ```markdown
-    streamlit run app.py
-    ```
+```markdown
+streamlit run app.py
+```
    
     
 
